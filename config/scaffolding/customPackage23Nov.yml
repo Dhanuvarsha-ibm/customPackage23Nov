@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: customPackage23Nov
+  gitServerName: dvgitinside
+  gitUrl: https://github.com/Dhanuvarsha-ibm
+  gitUsername: Dhanuvarsha-ibm
+  gitBranch: branchname
